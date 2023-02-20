@@ -725,7 +725,7 @@
 			<key>HibernateMode</key>
 			<string>None</string>
 			<key>HideAuxiliary</key>
-			<true/>
+			<false/>
 			<key>LauncherOption</key>
 			<string>Full</string>
 			<key>LauncherPath</key>
@@ -857,7 +857,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>alcid=13 watchdog=0 agdpmod=pikera e1000=0</string>
+				<string>-v alcid=13 watchdog=0 agdpmod=pikera e1000=0</string>
 				<key>csr-active-config</key>
 				<data>/w8AAA==</data>
 				<key>prev-lang:kbd</key>
@@ -960,11 +960,11 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02014404J90000A8</string>
+			<string>C02209501J900001H</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>vGwho6Yz</data>
+			<data>REwMa067</data>
 			<key>SpoofVendor</key>
 			<false/>
 			<key>SystemMemoryStatus</key>
@@ -972,9 +972,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CJ0XQ046M</string>
+			<string>C02HCRY0046M</string>
 			<key>SystemUUID</key>
-			<string>2572791B-EFDC-4F6E-8646-7D52F789AF17</string>
+			<string>818E07D2-A7C1-4365-959E-36E3DB1ED769</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
